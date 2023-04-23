@@ -24,7 +24,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href='https://dilasathapa.github.io/'><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
+<a href="https://dilasathapa.github.io/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/dilasa-thapa-a03461244/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/dilasa_thapa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
@@ -55,7 +55,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/dilasathapa/github-profile-views-counter">
+<a href="[https://github.com/dilasathapa/github-profile-views-counter](https://komarev.com/ghpvc/?username=dilasathapa&label=Profile%20views&color=ee4e20&style=flat)">
     <img src="https://komarev.com/ghpvc/?username=dilasathapa">
 </a>
 <a href="https://github.com/dilasathapa?tab=followers"><img src="https://img.shields.io/github/followers/dilasathapa?label=Followers&style=social" alt="GitHub Badge"></a>
