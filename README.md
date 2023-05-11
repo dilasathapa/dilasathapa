@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **thapadilasa71@gmail.com**
 
-- 📄  Know more about me [Resume](https://drive.google.com/file/d/1tdCh12bZFt1tRgisFs_2hkJ743a57Ua0/view?usp=share_link)
+- 📄  Know more about me [Resume](https://drive.google.com/drive/folders/1Yw53LZEbSS0ImSAssMhtrHieKnBKZbsx)
 
 
 ## Connect with me:
