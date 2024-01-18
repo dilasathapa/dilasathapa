@@ -2,13 +2,13 @@
 
 #### This is ME, Dilasa Thapa, from Nainital, Uttarakhand, having a passion for web development. With expertise in HTML, CSS, Java, JavaScript, ES6+, React, Nodejs and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
 
-🌱 **I’m currently learning :** Full Stack Development (React and Node.js)
+🌱 **I’m currently learning :** Full Stack Development (React and Node.js) and Python
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
 💬 **Ask me about :**  **Java, HTML, CSS, JavaScript, React,Software Engineering, Data Structures and Algorithms.**
 
-🥅 **2023 Goals :** Learning new things and contribute more
+🥅 **2024 Goals :** Learning new things and contribute more
 
 
 - All of my projects are available at <a href="https://dilasathapa.github.io/">Portfolio</a> 
@@ -39,8 +39,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="80" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="react" width="85" height="45"/> </a>
 
-  
-<br>
+  <br>
 
 <p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilasathapa&show_icons=true&locale=en&theme=tokyonight" alt="dilasathapa" /></p>
 
