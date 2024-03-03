@@ -21,7 +21,6 @@
 
 
 ## Connect with me:
-
 <p align="left">
 <a href="https://dilasathapa.github.io/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/dilasa-thapa-a03461244/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
