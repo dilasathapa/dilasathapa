@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://dilasathapa.github.io/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/dilasa-thapa-a03461244/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="https://www.hindustantimes.com/ht-img/img/2023/07/24/550x309/Screenshot_2023-07-24_113640_1690181491712_1690181499324.png"/></a>
- <a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="[https://img.icons8.com/?size=100&id=cMRBi0rI3iwb&format=png&color=000000](https://img.icons8.com/?size=100&id=IALWhfjB37gY&format=png&color=000000)"/></a>
+<!-- <a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="https://www.hindustantimes.com/ht-img/img/2023/07/24/550x309/Screenshot_2023-07-24_113640_1690181491712_1690181499324.png"/></a> -->
+ <a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="https://img.icons8.com/?size=100&id=cMRBi0rI3iwb&format=png&color=000000"/></a>
 
 </p>
 
