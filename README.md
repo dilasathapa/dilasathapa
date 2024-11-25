@@ -27,6 +27,9 @@
 <a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="https://www.hindustantimes.com/ht-img/img/2023/07/24/550x309/Screenshot_2023-07-24_113640_1690181491712_1690181499324.png"/></a>
  <a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="![image](https://github.com/user-attachments/assets/a0e2ee4c-826d-4e8e-934b-a5d38d774a64)
 "/></a>
+ <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
