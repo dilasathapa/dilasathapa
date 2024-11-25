@@ -25,6 +25,8 @@
 <a href="https://dilasathapa.github.io/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/dilasa-thapa-a03461244/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="https://www.hindustantimes.com/ht-img/img/2023/07/24/550x309/Screenshot_2023-07-24_113640_1690181491712_1690181499324.png"/></a>
+ <a href = "https://twitter.com/dilasa_thapa"><img height="40px" width="45px" margin-bottom="10px" border-radius="8px" src="![image](https://github.com/user-attachments/assets/a0e2ee4c-826d-4e8e-934b-a5d38d774a64)
+"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
