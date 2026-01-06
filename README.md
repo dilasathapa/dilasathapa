@@ -9,7 +9,7 @@
 
 💬 **Ask me about :**  **Java, HTML, CSS, JavaScript, React, Software Engineering, Data Structures and Algorithms.**
 
-🥅 **2026 Goals : ** Learning new things and contribute more
+🥅 **2026 Goals :** Learning new things and contribute more
 
 - Some of my projects are available at <a href="https://dilasathapa.github.io/">Portfolio</a>
  
