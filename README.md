@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **thapadilasa71@gmail.com**
 
-- 📄  Know more about me [Resume](https://drive.google.com/drive/folders/1Yw53LZEbSS0ImSAssMhtrHieKnBKZbsx)
+- 📄  Know more about me [Resume](https://drive.google.com/drive/folders/12M5sWE33ecl1kNnK9W4jzpy-DdBLeB28?usp=sharing)
   
 
 
@@ -46,7 +46,7 @@
 <p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilasathapa&show_icons=true&locale=en&theme=tokyonight" alt="dilasathapa" /></p>
 
 
-<p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=dilasathapa&show_icons=true&locale=en&theme=tokyonight" alt="dilasathapa" /></p>
+<!-- <p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=dilasathapa&show_icons=true&locale=en&theme=tokyonight" alt="dilasathapa" /></p> -->
 
 <div class="graph-1">
   <p align="center"><a href="https://github.com/dilasathapa"><img align="center" width="90%"
