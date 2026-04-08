@@ -3,7 +3,7 @@
 
 #### This is ME, Dilasa Thapa, from Uttarakhand, having a passion for web development. With expertise in HTML, CSS, JavaScript, ES6+, React, Nextjs, Nodejs, MongoDB, SQL, JAVA and experienced in solving more than 200+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
 
-🌱 **I’m currently learning :** Full Stack Development  (React and Node.js) and Python
+🌱 **I’m currently learning :** Full Stack Development  (Flutter and Django) and Python
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
